@@ -1,7 +1,7 @@
 Pulse classification algorithm
 ===============================
 
-This set of Matlab scripts and functions implements the Shahi and Baker (2014) multi-component pulse classification algorithm.
+This set of Matlab scripts and functions implements the Shahi and Baker (2014) pulse classification algorithm.
 
 Contents
 ========
