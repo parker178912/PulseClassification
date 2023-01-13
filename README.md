@@ -2,8 +2,8 @@ Pulse classification algorithm
 ===============================
 `2022.12 Shahi and Baker單脈衝分類算法`
 
-This set of Matlab scripts and functions implements the Shahi and Baker (2014) pulse classification algorithm.
-將Shahi and Baker(2014)的單脈衝分類算法實現，用以判斷單一地震是否具有近斷層效應。
+* This set of Matlab scripts and functions implements the Shahi and Baker (2014) pulse classification algorithm.
+* 將Shahi and Baker(2014)的單脈衝分類算法實現，用以判斷單一地震是否具有近斷層效應。
 
 Contents
 ========
